@@ -1,0 +1,7 @@
+credentials.json
+token.pickle
+event_cache.json
+configs.py
+*.pyc
+.idea/
+*.psd

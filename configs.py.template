@@ -1,0 +1,3 @@
+GOOGLE_CALENDAR_ID="some-id@group.calendar.google.com"
+SLEEP_TIME_MINUTES = 5
+EVENTS_CACHE_FILE = "event_cache.json"
